@@ -1,0 +1,10 @@
+[ 2016-03-05T17:00:55+08:00 ] ERR: (ThinkException) 非法操作:Login
+[ 2016-03-05T17:01:33+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/Login.html]
+[ 2016-03-05T17:01:47+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php
+[ 2016-03-05T17:02:48+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php
+[ 2016-03-05T17:03:57+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php
+[ 2016-03-05T17:04:19+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php
+[ 2016-03-05T17:04:21+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php
+[ 2016-03-05T17:04:46+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php
+[ 2016-03-05T17:04:55+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php
+[ 2016-03-05T17:05:14+08:00 ] ERR: (ThinkException) 非法操作:imgcode.php

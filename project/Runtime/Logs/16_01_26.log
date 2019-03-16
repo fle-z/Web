@@ -1,0 +1,8 @@
+[ 2016-01-26T19:13:11+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]
+[ 2016-01-26T19:13:27+08:00 ] ERR: (ThinkException) 无法加载模块:test
+[ 2016-01-26T19:14:00+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]
+[ 2016-01-26T19:14:39+08:00 ] ERR: (ThinkException) 无法加载模块:test
+[ 2016-01-26T19:20:15+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]
+[ 2016-01-26T19:32:19+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]
+[ 2016-01-26T19:32:45+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]
+[ 2016-01-26T19:32:51+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]

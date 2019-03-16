@@ -1,0 +1,23 @@
+[ 2016-03-28T21:40:15+08:00 ] ERR: (ThinkException) 模板不存在[./project/Tpl/Index/index.html]
+[ 2016-03-28T21:45:14+08:00 ] ERR: (ThinkException) 无法加载模块:PaperSharing
+[ 2016-03-28T21:49:09+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T21:51:22+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T21:52:29+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T21:52:54+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T21:53:31+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T21:55:04+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T21:55:10+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T22:09:52+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T22:09:57+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T22:09:57+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T22:12:58+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T22:14:09+08:00 ] ERR: (ThinkException) 非法操作:{:U(verify)}
+[ 2016-03-28T22:20:15+08:00 ] ERR: (ThinkException) 非法操作:showimg.php
+[ 2016-03-28T22:20:22+08:00 ] ERR: (ThinkException) 非法操作:showimg.php
+[ 2016-03-28T22:30:47+08:00 ] ERR: (ThinkException) Unknown database 'papersharing'
+[ 2016-03-28T22:32:19+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2016-03-28T22:32:27+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2016-03-28T22:32:29+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2016-03-28T22:32:29+08:00 ] ERR: (ThinkException) 无法加载模块:index
+[ 2016-03-28T22:32:44+08:00 ] ERR: (ThinkException) 无法加载模块:Amazon 32.ico
+[ 2016-03-28T22:32:44+08:00 ] ERR: (ThinkException) 无法加载模块:Amazon 32.ico

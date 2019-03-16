@@ -1,0 +1,31 @@
+[ 2015-10-31T14:20:45+08:00 ] 127.0.0.1 /baoming/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.045357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.054224s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.242127s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.242489s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.003028s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.003895s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.002460s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.002908s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013172s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.003115s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003400s ]
+
+[ 2015-10-31T14:53:25+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:43+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:43+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:44+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:44+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:44+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:44+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:44+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:44+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:53:45+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:54:19+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:54:19+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:54:19+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]
+[ 2015-10-31T14:54:19+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Index/index.html]

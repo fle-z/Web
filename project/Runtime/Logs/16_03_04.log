@@ -1,0 +1,2 @@
+[ 2016-03-04T19:33:57+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]
+[ 2016-03-04T19:34:07+08:00 ] ERR: (ThinkException) 模板不存在[./baoming/Tpl/Log/test.html]
